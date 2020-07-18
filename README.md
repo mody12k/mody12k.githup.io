@@ -1,1 +1,1 @@
-# https://modyksa.github.io/modyksa.githup.io/
+# https://modyksa.github.io/moody/
