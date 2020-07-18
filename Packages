@@ -1,1 +1,1449 @@
+[{"package":"Package: kr.xsf1re.flyjb
+Source: You can HIDE Doing jailbreak your iDevice.
+Version: 0.3.7~beta8
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=111.deb
+Size: 580404
+Installed-Size: 836
+Name: FlyJB Arabic
+Author: XsF1re
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=111
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+MD5sum: be52babf9df62b1c827eede6c30deba6
 
+Package: net.myclassic.icleanerproo
+Version: 7.8.2
+Section: Utilities
+Maintainer: classic<>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+SileoDepiction: https://myclassic.net/sileo.php?pid=110
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=110.deb
+Size: 6740544
+Installed-Size: 24761
+Name: iCleaner Pro äÓÎÉ ßÇãáÉ
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: https://myclassic.net/sileo.php?pid=110
+Icon: file:///Applications/iCleaner.app/Icon.png
+MD5sum: b6c857565bea3081cf7debe77873b011
+SHA1: b3c046bd233e35e7b59c4148a44f25b7be64f519
+SHA256: 3658cf19f2b52834b94d16bfcb2f831be3ae2b9c18038a8759702a361fc7a7bc
+
+Package: net.myclassic.sliderallv4
+Source: pubg hack
+Version: 4.0
+Section: Games
+Maintainer: xRepo <support@xRepo.co>
+Depends: mobilesubstrate
+SileoDepiction: https://myclassic.net/sileo.php?pid=107
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=107.deb
+Size: 652498
+Installed-Size: 600
+Name: Pubg Slider  0.17
+Author: ahmadmokaddam
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=107
+Icon: https://images.g2a.com/newlayout/323x433/1x1x0/0017f67ada95/59e60aeaae653a34fe0e9633
+MD5sum: 1fe56aed817ddacda0a660bc87ff18be
+SHA1: 1f5deece88b32a1b955863b884f64853b5414367
+SHA256: 8e81e6c1fdbb7a9fc558c73bf993461a1df15143ed6ab1cba6644d4003d417e0
+
+Package: net.myclassic.snapbreak
+Version: 1.7.1
+Priority: optional
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, com.s0me1ne.atweakdisabler, fr.s0me1ne.snapbreak
+SileoDepiction: https://myclassic.net/sileo.php?pid=106
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=106.deb
+Size: 6465146
+Name: SnapBreak ÓäÇÈ ÈÑíß
+Author: Snaphelper
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=106
+Icon: https://plus.3z43.com/wp-content/uploads/2020/02/admin-ajax.php_-1.png
+MD5sum: 998b1ec1c24de6fe27e1e1d4a948f09e
+SHA1: 8ad34f24ba0161b62dda9c85a46af2c5131208c2
+SHA256: c16d2bf8233409472c706027a997228368c724ee2bfb9ebf0987349f004bb362
+
+Package: net.angelxwind.appsyncunified
+Version: 72.0
+Section: Tweaks
+Maintainer: Karen/??? <karen@akemi.ai>
+Depends: firmware (>= 5.0), firmware (<= 13.4), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, science.xnu.substitute
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=105.deb
+Size: 42056
+Installed-Size: 496
+Name: AppSync Unified
+Author: Linus Yang, Karen/??? <karen@akemi.ai>
+Depiction: http://www.myclassic.net/index.php?pid=105
+MD5sum: 72610faf2a128cc964021149dc9eac92
+
+Package: com.bengiannis.complications
+Version: 2.2
+Section: Tweaks
+Maintainer: Ben Giannis
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), applist, com.rpetrich.rocketbootstrap (>= 1.0.3) | firmware (<< 7.0)
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=104.deb
+Size: 423660
+Installed-Size: 1780
+Description: watchOS widgets on your lock screen
+Name: Complications
+Author: Ben Giannis
+Depiction: http://www.myclassic.net/index.php?pid=104
+MD5sum: 214c11265f9a7afeb1ac011d0e4bd0e2
+
+Package: net.myclassic.modernalerts2
+Version: 1.0.1k
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Depends: mobilesubstrate, preferenceloader, ru.rejail.graphite, firmware(>=13.0), firmware(<<14.0)
+SileoDepiction: https://myclassic.net/sileo.php?pid=103
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=103.deb
+Size: 89160
+Installed-Size: 359
+Name: ModernAlerts 2
+Author: Geometric Software
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=103
+MD5sum: c64c7b2ff7054902394ad331276cd1b5
+SHA1: 132b8c7ef86bc06c5b60bf5c48fc1eefadc000b6
+SHA256: 533961da4bcd6f501b5d7f48838e0860a73155358301ea6316b8c662a90d6b34
+
+Package: com.rango.gasolina
+Version: 0.3.1
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+SileoDepiction: http://classic.xrepo.co/sileo.php?pid=274
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=102.deb
+Size: 27810
+Installed-Size: 340
+Name: Gasolina
+Author: Rango
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=102
+MD5sum: c7a6676b46b7c7cb76238512cda1852c
+
+Package: com.ichitaso.otadisabler
+Version: 0.1-7
+Section: System
+Maintainer: ichitaso
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=101.deb
+Size: 24350
+Installed-Size: 200
+Description: Delete and disable OTA badge
+Name: OTADisabler
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
+MD5sum: f396c8ff22030f444031327ee35d8240
+
+Package: com.laughingquoll.prefixui
+Version: 1.2.6
+Section: Tweaks
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: me.nepeta.libcolorpicker, com.spark.libsparkapplist
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=prefixui
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=100.deb
+Size: 21760
+Installed-Size: 166
+Description: An awesome framework of some sort!!
+Name: PrefixUI
+Author: LaughingQuoll
+Depiction: https://rejail.ru/depiction.php?file=prefixui
+MD5sum: 26b19730ca1df738680ab672e77c49b8
+
+Package: com.opa334.safariplus
+Version: 1.7.12
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=99.deb
+Size: 1108652
+Installed-Size: 5114
+Description: Various enhancements to Safari!
+Name: Safari Plus
+Author: opa334 <opa334@protonmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+MD5sum: c5ea3cae42a3bfddebedda277eee8142
+
+Package: net.myclassic.libtapi10
+Version: 10.0.0~svn-20191106+dcaf932-1
+Priority: optional
+Section: Development
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libllvm10, libclang-cpp10
+SileoDepiction: https://myclassic.net/sileo.php?pid=98
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=98.deb
+Size: 53142
+Installed-Size: 480
+Description: Text-based Application Programming Interface (library)
+Name: libtapi10
+Author: classic
+Depiction: http://www.myclassic.net/index.php?pid=98
+MD5sum: 965fd142356aff71211e08eb43dec0d4
+SHA1: ce6d7ea378b680ee8bfea542090fc06c79479142
+SHA256: f88c6b748afb5594fdedf2761963c1a735d8733ea9b90743d62830f01cda2dcf
+
+Package: net.myclassic.libnghttp2-14
+Version: 1.38.0-1
+Priority: standard
+Section: Development
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Conflicts: nghttp2, libnghttp2
+Provides: nghttp2, libnghttp2
+Replaces: nghttp2, libnghttp2
+SileoDepiction: https://myclassic.net/sileo.php?pid=97
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=97.deb
+Size: 53574
+Installed-Size: 400
+Description: library implementing HTTP/2 protocol (shared library)
+Name: libnghttp2-14
+Author: classic
+Homepage: https://nghttp2.org/
+Depiction: http://www.myclassic.net/index.php?pid=97
+MD5sum: d9cd80a673bcf18cb26a4c450e622fb6
+SHA1: 3d8ece030ae39b43509c1d0d394f7991d50b4c27
+SHA256: 620ea24d2da2d541e39a48371bee28f91f9b4981ba442178777dfce7b8c7525e
+
+Package: curl
+Version: 7.65.0-1
+Priority: standard
+Section: Networking
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libnghttp2-14, libssh2, libssl1.0
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=96.deb
+Size: 322348
+Installed-Size: 1896
+Description: flexible multi-protocol file transfers
+Name: cURL
+Homepage: http://curl.haxx.se/
+Depiction: http://www.myclassic.net/index.php?pid=96
+MD5sum: 5b755c7b00631efaa87b157048f29b66
+
+Package: com.rpgfarm.a-font
+Version: 1.7.1
+Section: Tweaks
+Maintainer: Baw Appie <pp121324@gmail.com>
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=95.deb
+Size: 489666
+Installed-Size: 2332
+Description: Change your font!
+Name: A-Font
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: http://www.myclassic.net/index.php?pid=95
+MD5sum: 8eb700472c6f4f6e2ae08058b5cf1c61
+
+Package: com.rpetrich.rocketbootstrap
+Version: 1.0.7
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=94.deb
+Size: 38098
+Installed-Size: 596
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Name: RocketBootstrap
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/
+Tag: purpose::extension, role::developer
+MD5sum: 2a3ee9d89858ade8b304c86407233276
+
+Package: com.julioverne.cracktool4
+Version: 4.0~beta9c
+Section: Utilities
+Maintainer: xRepo <support@xRepo.co>
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+SileoDepiction: http://classic.xrepo.co/sileo.php?pid=185
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=93.deb
+Size: 516600
+Name: CrackTool4 (iOS 12)
+Author: julioverne
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=93
+MD5sum: c52a5812842ad01cbf9b36c4ded76a72
+
+Package: com.creaturesurvive.libcscolorpicker
+Version: 1.0.3
+Section: System
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Pre-Depends: firmware (>= 7.0)
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcscolorpicker
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=92.deb
+Size: 91700
+Installed-Size: 460
+Description: A minimal color picker library for developers
+Name: libCSColorPicker
+Author: CreatureSurvive <support@creaturecoding.com>
+Homepage: https://creaturecoding.com/
+Depiction: https://creaturecoding.com/?page=depiction&id=libcscolorpicker
+Tag: purpose::extension, compatible_min::iosiOS7
+MD5sum: 29ea3d634f859bb9e2d07e3ff98586d1
+
+Package: com.chikuwa.copyrepourl
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=91.deb
+Size: 33492
+Installed-Size: 168
+Description: copy repo url from Cydia Sources list
+Name: CopyRepoURL
+Author: Chikuwa <chikuwajb@gmail.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=copyrepourlDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=copyrepourlDp
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+MD5sum: 939b38802dce6dff228e8a36514f775a
+
+Package: net.myclassic.springtomize5
+Version: 5.0.2
+Section: Tweaks
+Maintainer: sharedRoutine <hotmail_155@hotmail.com>
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+SileoDepiction: https://myclassic.net/sileo.php?pid=90
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=90.deb
+Size: 467200
+Name: Springtomize 5
+Author: sharedRoutine <hotmail_155@hotmail.com>
+Depiction: http://www.myclassic.net/index.php?pid=90
+MD5sum: ef65760ca3b76e70398822ea6dd8171e
+SHA1: 104c25e4bcac04740749a3ffcbbab57c2630a389
+SHA256: adcd1f0cace52ffa30b291987086572fc926e48cd2a04484b48b5391a5b035ee
+
+Package: co.xrepo.classic.tinybanners2
+Version: 1.0.4-3
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Depends: mobilesubstrate,preferenceloader,applist,net.limneos.libbulletin
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=89.deb
+Size: 75602
+Installed-Size: 488
+Name: TinyBanners 2
+Author: Don
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=89
+MD5sum: da3cad978853b6db8699d080fcb0d960
+
+Package: net.myclassic.carbridgeios13lite
+Version: 1.0.2
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Depends: firmware (>= 13.0), mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, ws.hbang.common
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11
+SileoDepiction: https://myclassic.net/sileo.php?pid=88
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=88.deb
+Size: 163552
+Name: CarBridge (iOS 13) Lite
+Author: leftyfl1p <carbridgetweak@gmail.com>
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=88
+MD5sum: fe754b4c49b9d66c179b1fde573e9482
+SHA1: dc93e50edae621fe50b19705987f776c83a83340
+SHA256: 1a76d9b81cef1a734afb0c8594178ad40c1da6dad8ee9c8f2d78c71181e2d102
+
+Package: net.myclassic.appdatamanager
+Version: 1.5.1-10
+Section: Utilities
+Maintainer: xRepo <support@xRepo.co>
+SileoDepiction: https://myclassic.net/sileo.php?pid=87
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=87.deb
+Size: 3624426
+Installed-Size: 8864
+Name: Apps Manager
+Author: TIGI Software
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=87
+MD5sum: 7f257b6561ece0aa9c8920ef5a9f5d68
+SHA1: fa7181e7faa955b94e2d212f02f4a65501460533
+SHA256: f0db9650d699393bbb467088b02bb8e6f45cb283f3a12420e4ce4fac67a97fb8
+
+Package: net.myclassic.hack
+Version: 0.7
+Section: Games
+Maintainer: AHMED - AMR
+Depends: mobilesubstrate
+SileoDepiction: https://myclassic.net/sileo.php?pid=86
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=86.deb
+Size: 2494664
+Description: Hack GM Cracked By Arabic Developer!!
+Name: Hack GM chaines
+Author: AHMED - AMR
+Depiction: http://www.myclassic.net/index.php?pid=86
+MD5sum: c766ca1a1ee7e4b8090a64b8a181e3df
+SHA1: b4755a6394a8c88f2be74285e4b09837e705ff2c
+SHA256: b445f8c84343258b8e1460a8bb19471bb2c81f25d2d5d9640a9b8614788b18ec
+
+Package: com.i0sa.phonecaller2
+Version: 2.1.6
+Section: Tweaks
+Maintainer: Osama Muhammed <me@i0sa.com>
+Depends: firmware (>= 7.0), com.rpetrich.rocketbootstrap, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=85.deb
+Size: 552530
+Installed-Size: 2544
+Description: Find out who's calling before answering
+Name: PhoneCaller2
+Author: Osama
+Homepage: http://i0sa.com
+Depiction: http://www.myclassic.net/index.php?pid=85
+MD5sum: af22baad36e9b038e6d0981264ae7796
+
+Package: com.tapsharp.switcher
+Version: 1.1.3
+Section: Tweaks
+Maintainer: Neo Ighodaro
+Depends: mobilesubstrate, firmware (>= 11.2), com.tapsharp.libtapsharp (>= 1.0.2), com.rpetrich.rocketbootstrap (>= 1.0.3), applist, ws.hbang.alderis (>= 1.0) | org.thebigboss.libcolorpicker (>= 1.6.7)
+SileoDepiction: https://myclassic.net/sileo.php?pid=84
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=84.deb
+Size: 79462
+Installed-Size: 544
+Description: Switch to a different application from anywhere on your iOS device.
+Name: Switcher
+Author: Neo Ighodaro
+Depiction: http://www.myclassic.net/index.php?pid=84
+Icon: file:///Library/Application Support/Switcher/icon@2x.png
+MD5sum: 35caecbab231141c7afffea1305f243f
+SHA1: 6a6cf616c11d9a84c1d42d34edc274bca6cbff38
+SHA256: d84a6528588f5b48267b86ea008ef9b19998076a975edf3465ff4a9ebe30caca
+
+Package: com.laughingquoll.prysm
+Version: 1.6.2
+Section: Tweaks
+Maintainer: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=83.deb
+Size: 794840
+Installed-Size: 2972
+Description: Your control center, reimagined.
+Name: Prysm
+Author: LaughingQuoll
+Depiction: http://www.myclassic.net/index.php?pid=83
+MD5sum: 361223e3ec282ee9cfa46a704f2ad076
+SHA1: 13aeaddc689e9e8f5547497de50fc34210b5b9eb
+SHA256: a3fb1d5d80a14a74f54b8227eb508d2c03b5d1fbacac03dd25e42e447c8d5f2f
+
+Package: net.myclassic.NoRevoke
+Source: Used for expiration of the approved of applications No revoke no need to trust profile so no 7 days limit.
+Version: 0.0.5
+Section: Utilities
+Maintainer: xRepo <support@xRepo.co>
+Depends: mobilesubstrate
+Conflicts: org.cydia.kiimo.antirevoke, org.cydia.kiimo.antirevoke2
+SileoDepiction: https://myclassic.net/sileo.php?pid=82
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=82.deb
+Size: 52852
+Name: NoRevloke
+Author: stem grade <repo@hackyouriphone.org>
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=82
+MD5sum: ecd2fb356acdf1fd126b9f1442a7f86b
+SHA1: 768e12f3b542299f42978e1358eb720cc5f8e27e
+SHA256: b49f57d398933243d6e68742346da0e697b6b81967ca6853036aa8e31113584d
+
+Package: com.cokepokes.appstoreplusplus
+Version: 0.9.9-6
+Priority: optional
+Section: Tweaks
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=81.deb
+Size: 1421896
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
+Name: AppStore++
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Icon: 
+MD5sum: d7867d5ba521eccf204c925e19488688
+
+Package: net.limneos.simpleactivationactions
+Version: 0.1-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=78.deb
+Size: 5934
+Installed-Size: 107
+Description: Handles StatusBar actions for simple activation events
+Name: SimpleActivationActions
+Author: Elias Limneos <limneoselias@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=simpleactivationactionsDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=simpleactivationactionsDp
+Tag: purpose::extension, cydia::obsolete, compatible::ios12
+MD5sum: 1f123699b5dd8dfca20fa6ae44dc9dfe
+
+Package: com.yourepo.classic.cydown
+Source: Cydia Download Manager & Extra Features!
+Version: 7.0.6
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+SileoDepiction: http://classic.xrepo.co/sileo.php?pid=105
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=76.deb
+Size: 4061430
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=76
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+MD5sum: 68ac7870c1fd5fb8daf53422b21a66ec
+
+Package: com.spark.libsparkapplist
+Version: 1.0.7
+Section: System
+Maintainer: Spark
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=75.deb
+Size: 27086
+Installed-Size: 468
+Description: AppList alternative
+Name: libSparkAppList
+Author: Spark
+Depiction: http://www.myclassic.net/index.php?pid=75
+Tag: role::developer
+MD5sum: cef3820a7c74f2b6837c6a490977ee4a
+
+Package: com.pulandres.watusi2
+Version: 1.2.36
+Section: Tweaks
+Maintainer: Pulandres
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.pulandres.watools (>= 2.1.16), com.rpetrich.rocketbootstrap, applist
+SileoDepiction: https://myclassic.net/sileo.php?pid=73
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=73.deb
+Size: 4835238
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 2 for WhatsApp
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://repo.pulandres.me/index.php?pid=1697
+Icon: https://www.ios-repo-updates.com/images/repositories/fouad-s.png
+MD5sum: ae50409b173da6f9d4fc4614f9e45916
+SHA1: b59768bf53610b9125ada21f75d3f1d935339970
+SHA256: ab27614c4125fd94afdcb3fe76f7cc48a0aca08f0e222be2675241cb926a99cd
+
+Package: com.pulandres.tetherme8
+Version: 1.2.3
+Section: Tweaks
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | network-cmds
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=72.deb
+Size: 206264
+Installed-Size: 2300
+Description: More advanced modem settings
+Name: TetherMe for iOS 8+
+Author: Sam Bingner <support@tetherme.net>
+Depiction: http://www.myclassic.net/index.php?pid=72
+MD5sum: 0234290aef7fb0af3b75f4e7ddea004d
+
+Package: com.pulandres.calllogpro
+Version: 11.0.1-beta-10
+Section: Tweaks
+Maintainer: Pulandres
+Depends: firmware(>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap, com.pulandres.libiarrays
+SileoDepiction: https://myclassic.net/sileo.php?pid=71
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=71.deb
+Size: 5611604
+Installed-Size: 6530
+Description: Manage history and delete call records.
+Name: CallLogPro (iOS 13 to 8)
+Author: IArrays <contact@iarrays.com>
+Depiction: https://repo.pulandres.me/index.php?pid=1529
+Icon: file:///Applications/CallLogPro.app/AppIcon29x29@2x.png
+MD5sum: a02905da4b3befeaa76578e67198ac5d
+SHA1: ad360e39828278aa9c7a8ab40adde91de53c6787
+SHA256: 595e359133d4934a37dafdf0266e5787ee3589a92c92f4e77484cf531abdaca7
+
+Package: com.pulandres.callbarxs
+Version: 2.3-75-1
+Section: Tweaks
+Maintainer: Pulandres
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware ( >= 12), sedfix, wget
+Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.limneosos, ru.rejail.limneosos
+Replaces: net.limneos.callbarxs
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1626
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=70.deb
+Size: 423922
+Installed-Size: 1356
+Description: Change the style of your UI Calls
+Name: CallBar XS (iOS 12/13) Cracked
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://repo.pulandres.me/index.php?pid=1626
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+MD5sum: 276e03703e730906ccfe8760ba4d055c
+
+Package: com.pulandres.audiorecorderxs
+Version: 3.2-47
+Section: Tweaks
+Maintainer: Pulandres
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), wget
+Conflicts: net.limneos.callrecorder, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Replaces: net.limneos.audiorecorder, net.limneos.audiorecorderx,net.limneos.audiorecorderxs
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1426
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=69.deb
+Size: 4726610
+Installed-Size: 21588
+Description: Most Advanced iOS Call Recorder Ever!
+Name: AudioRecorder XS (iOS 12/13) Cracked
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://repo.pulandres.me/index.php?pid=1426
+Icon: https://www.limneos.net/cydia/packageImages/net.limneos.audiorecorderxs/icon.png?fe=398
+MD5sum: c1cbfff38447f1002e19c4f9ab35cd7c
+
+Package: com.leftyfl1p.nopromostwitter
+Version: 1.0.1
+Section: Tweaks
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=68.deb
+Size: 6374
+Installed-Size: 136
+Description: Removes all forms of bullshit in twitter.app. @leftyfl1p for updates. Confirmed working on twitter 6.60.
+Name: NoPromosTwitter
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Depiction: https://leftyfl1p.github.io/depictions/nopromostwitter
+MD5sum: df28d8d3f696249f2f25880c083fc880
+
+Package: net.myclassic.mediaboxhdpremium
+Version: 2.4.9.2
+Section: Tweaks
+Maintainer: Classic <admin@myclassic.net>
+Depends: mobilesubstrate
+SileoDepiction: https://myclassic.net/sileo.php?pid=66
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=66.deb
+Size: 13492
+Description: Added features of PREMIUM MediaBox HD app.
+Name: MediaBox HD PREMIUM
+Author: Mediaboxhd.net
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=mediaboxhdpremium
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=mediaboxhdpremium
+MD5sum: 1a71207f06ce4ebd53e9e92f69834a2a
+SHA1: 7a4b48a2ae26a3fc273336e5431bfdf268b59630
+SHA256: 7f6a04e3ffe6261080b8d5df8ab3eab89aa38678606c1baad0a3e70233a2c0f8
+
+Package: com.dunkston.circleicons
+Version: 1.3-1+debug
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Depends: mobilesubstrate
+SileoDepiction: http://classic.xrepo.co/sileo.php?pid=132
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=64.deb
+Size: 8266
+Installed-Size: 280
+Name: Circle Icons
+Author: dunkston
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=64
+MD5sum: c8dbdd7cfa1ddf0c46b5354af229a08d
+SHA1: 8d8dd9c9da2e0414c6c492bdc743359f5c1951f0
+SHA256: 34c118cabab37a71e0031b0a38430cfa458bcf5706560e90ce3ed659b9103966
+
+Package: com.jailbreak365.ccmodulespro
+Version: 1.1.1
+Section: Tweaks
+Maintainer: jailbreak365 <jailbreak365@mail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.opa334.ccsupport (>= 1.2.1)
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=62.deb
+Size: 106902
+Installed-Size: 1496
+Description: Increase the usability of your control center.
+Name: CCModules Pro
+Author: jailbreak365 <jailbreak365@mail.com>
+Depiction: http://www.myclassic.net/index.php?pid=62
+MD5sum: 1dfae7feac253fafa95d55a2f5108e98
+
+Package: co.xrepo.classic.settrust
+Version: 0.0.2
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=56.deb
+Size: 166736
+Installed-Size: 744
+Name: settrust
+Author: @i7_pro
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=56
+MD5sum: f06a99c8271cc1b2e8c4645e27671025
+
+Package: co.xrepo.classic.mimport36
+Version: 0.0~beta36a
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Depends: mobilesubstrate, firmware (>= 6.0), unzip, unrar
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=55.deb
+Size: 887824
+Name: MImport
+Author: julioverne <julioverne@me.com>
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=55
+Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
+MD5sum: c783efed542af94024ad440dc5bb521b
+
+Package: co.xrepo.classic.libgraphite
+Version: 2.2.4
+Section: Development
+Maintainer: xRepo <support@xRepo.co>
+Depends: firmware (>= 10.0)
+Conflicts: com.muris.libgraphite
+Provides: com.muris.libgraphite (= 2.2.3)
+Replaces: com.muris.libgraphite
+SileoDepiction: http://classic.xrepo.co/sileo.php?pid=518
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=54.deb
+Size: 227528
+Installed-Size: 1321
+Name: libgraphite
+Author: Geometric Software
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=54
+MD5sum: 1b021486c48922e6c57308868e299dca
+
+Package: co.xrepo.classic.fbadblck
+Version: 1.4
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Depends: mobilesubstrate
+Replaces: com.rishanan.fbadblock
+SileoDepiction: http://classic.xrepo.co/sileo.php?pid=270
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=53.deb
+Size: 5254
+Name: FacebookAdBlocker
+Author: Rishanan <repo@hackyouriphone.org>
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=53
+MD5sum: 8758a9b96502efe25075d76d9d78ed23
+
+Package: net.myclassic.2dock
+Version: 0.0.1
+Priority: optional
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Depends: mobilesubstrate, firmware (>= 13.0)
+SileoDepiction: https://myclassic.net/sileo.php?pid=52
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=52.deb
+Size: 6506
+Installed-Size: 116
+Name: 2Dock X (iOS13)
+Author: Minazuki <minazukidev@gmail.com>
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=52
+Tag: purpose::extension, compatible::ios13
+MD5sum: 63a69b037e26b3f0e05b7975613413aa
+SHA1: 48398d057646ce0d16330bb1cdf4ab87e9b870c1
+SHA256: afd9707dc292a48dcd1f831b65a64135f1ec77980b9f753570f955b92a94685a
+
+Package: co.xrepo.classic.jodebox
+Version: 4.0.4
+Section: Development
+Maintainer: xRepo <support@xRepo.co>
+Pre-Depends: firmware (>= 12.2)
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.6), org.swift.libswift (>= 5.0)
+Replaces: com.ouraigua.old.jodebox
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=51.deb
+Size: 260622
+Installed-Size: 1220
+Name: JODebox
+Author: Jalal Ouraigua <ouraigua@icloud.com>
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=51
+Icon: file:///Library/PreferenceBundles/JODebox.bundle/icon@2x.png
+Tag: purpose::extension, role::developer, compatible::ios12
+MD5sum: 405298de71d88c1cbfc579b27f03f536
+
+Package: ru.rejail.watusii
+Version: 1.2.37k
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ru.rejail.watusitools (>= 2.1.19), com.rpetrich.rocketbootstrap, applist, ru.rejail.adblockplus
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+SileoDepiction: http://classic.xrepo.co/sileo.php?pid=609
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=50.deb
+Size: 3263354
+Installed-Size: 14133
+Name: Watusi 2 for WhatsApp
+Author: Fouad Raheb <support@fouadraheb.com>
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=50
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+MD5sum: d40198cbe8611fcce363f02fc76a4757
+
+Package: sedfix
+Version: 100.3
+Section: System
+Maintainer: Pulandres
+Depends: mobilesubstrate, wget, curl
+Replaces: com.hackyouriphone.sedfix
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1689
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=49.deb
+Size: 161830
+Installed-Size: 1000
+Description: Package to get working Cracked Tweaks, IMPORTANT to future cracks, install please.
+Name: CracksHelper
+Author: Pulandres
+Depiction: https://repo.pulandres.me/index.php?pid=1689
+Icon: https://repo.pulandres.me/CydiaIcon.png
+MD5sum: c0177882d5d368cb7ca0c1b3dcbc4dc8
+
+Package: com.creaturecoding.simmerdown
+Version: 1.3.1
+Section: Tweaks
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=48.deb
+Size: 5986
+Installed-Size: 200
+Description: kill mediaserverd when exiting the Camera app.
+Name: simmerDown
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/simmerdown/depiction/
+MD5sum: b54f9644d0e3445748ae97ff95e72d2c
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.6.8
+Section: System
+Maintainer: ichitaso <willfeeltips+rat@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, com.opa334.ccsupport
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+SileoDepiction: https://myclassic.net/sileo.php?pid=47
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=47.deb
+Size: 96360
+Installed-Size: 1244
+Description: Adblock hosts & iAd Remove Toggle
+Name: RemoveAdsToggle
+Author: ichitaso <willfeeltips+rat@gmail.com>
+Homepage: https://ichitaso.com/
+Depiction: http://cydia.ichitaso.com/depiction/RemoveAdsToggle.html
+Icon: file:///Library/PreferenceBundles/RemoveAdsToggle.bundle/RemoveAdsToggle@2x.png
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+MD5sum: 45ca509051c3c711e54e10ca930d2d57
+SHA1: 0be38380737e30e6098b04a04300c9694b0e5758
+SHA256: c1212127e06373434629d3ad7626e898f1e3c4d9a353948a814b86918f86a6ee
+
+Package: net.myclassic.getwifi
+Version: 2.2
+Section: Tweaks
+Maintainer: azam @i4i4i <i4i4i@outlook.sa>
+Depends: mobilesubstrate
+SileoDepiction: https://myclassic.net/sileo.php?pid=46
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=46.deb
+Size: 4614
+Description: ÇÓÊãÑÇÑ ÇáÇÊÕÇá ÈäÞØÉ ÇáÇÊÕÇá ÍÊì ÚäÏ ÇÛáÇÞ ÇáÔÇÔÉ
+Name: Get WiFi
+Author: azam @i4i4i <i4i4i@outlook.sa>
+Depiction: http://www.myclassic.net/index.php?pid=46
+MD5sum: 6ffd0bd7f526676d67832c7625a5f364
+SHA1: 9fb88fc44f2e5b0fac4ea7be609184c01d6c4d14
+SHA256: 5ad26c49c3c272ddf3a4fdd9d3468af98fd587b3ab98f31be381dde807be373a
+
+Package: ru.rejail.adgpro
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: mobilesubstrate
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=adgpro
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=45.deb
+Size: 3768
+Installed-Size: 114
+Description: ??? AdGuard ?? Pro ??????.
+Name: AdGuard Pro Hack
+Author: md.furman
+Depiction: https://rejail.ru/depiction.php?file=adgpro
+MD5sum: 4893d0f9887853c6669b62a5eefbf9bf
+
+Package: eu.rio-doro.actithemefix
+Version: 1.0
+Section: Addons (Activator)
+Maintainer: rio-doro
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=43.deb
+Size: 2794
+Description: makes the activator icon themable
+Name: Activator Theme Fix
+Author: rio-doro <support@rio-doro.eu>
+Homepage: http://rio-doro.eu/
+Depiction: http://www.myclassic.net/index.php?pid=43
+MD5sum: 5b427f074503aaee68dea499da8c0acb
+
+Package: com.yourepo.amzing.nocamerashutter
+Version: 1.0.2-1
+Section: Tweaks
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depends: mobilesubstrate, firmware (>=10.0)
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=42.deb
+Size: 3006
+Description: Disable the Shutter Sound and Burst Mode Sound for the camera app.
+Name: NoCameraShutter
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: http://www.myclassic.net/index.php?pid=42
+MD5sum: 09516691a3459565f9a1c424a8f2760d
+
+Package: com.spark.hidebarx
+Version: 0.0.4
+Section: Tweaks
+Maintainer: Spark
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=41.deb
+Size: 3598
+Installed-Size: 104
+Description: Hides the iPhone X home bar - compatible with VolumeBarX
+Name: HideBarX [Public]
+Author: Spark
+Depiction: http://www.myclassic.net/index.php?pid=41
+MD5sum: 3c99f558d376dea974cff89c9de2119a
+
+Package: com.shepgoba.downloadbar13
+Version: 1.0
+Section: Tweaks
+Maintainer: shepgoba
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=40.deb
+Size: 5150
+Installed-Size: 136
+Description: Show a progress bar for downloading apps instead!
+Name: DownloadBar13
+Author: shepgoba
+Depiction: http://www.myclassic.net/index.php?pid=40
+MD5sum: d0a2b6c082667a046ad40c2931ccf4ac
+
+Package: com.haoict.twitternoads
+Version: 0.0.1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=39.deb
+Size: 3800
+Installed-Size: 171
+Description: Hide "Promoted" post for Twitter app
+Name: Twitter No Ads
+Author: Hao Nguyen <hao.ict56@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=twitternoadsDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=twitternoadsDp
+Tag: purpose::extension, compatible::ios13
+MD5sum: 203341fdd9834db7fa7ea07dd8e3369a
+
+Package: com.kingpuffdaddi.boostedwifi
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=38.deb
+Size: 4628
+Installed-Size: 100
+Description: shows all networks and signal level(RSSI)
+Name: BoostedWifi
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=boostedwifiDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=boostedwifiDp
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+MD5sum: 2b625f9d27dd45608cbbfe190b33c480
+
+Package: net.myclassic.bigvideos
+Version: 3.1-1
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Depends: mobilesubstrate
+SileoDepiction: https://myclassic.net/sileo.php?pid=36
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=36.deb
+Size: 5330
+Description: ÅÑÓÇá ãÞØÚ Øæíá ÈÇáæÇÊÓ
+Name: Big Videos
+Author: azam @i4i4i <i4i4i@outlook.sa>
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=36
+Icon: https://m.dw.com/image/49141015_303.jpg
+MD5sum: f1c2561e46c4a2ab0a07b5b2dc809813
+SHA1: 71d84c5ac577b9998c3db1b4835bb3d925a23b19
+SHA256: 92273167c949472111a23f309b5296b62b0503fb4e8dfd893e2a96a8aaf7e56b
+
+Package: com.charliewhile13.ccpatch13
+Version: 1.1
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Pre-Depends: firmware (>= 13.0)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=35.deb
+Size: 3570
+Installed-Size: 104
+Name: CommCenterPatch13
+Author: Charlie While
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=35
+MD5sum: 37d7860972a555a396f8288bd8fb388a
+
+Package: co.xrepo.classic.hostscleaner
+Version: 1.4.1
+Priority: standard
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: sed, grep, coreutils
+Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.thireus.untrustedhostsblocker9, com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockermega, com.reddestdream.minimalhostsblocker, com.sukarodo.notavoke, com.ceadd.blockyou12, com.nathanaccidentally.systemhostsblocker, com.thireus.untrustedhostsblockermegaipv4, com.ichitaso.removeadstoggle, com.ichitaso.removeads, com.spinward.hostsfileflipswitch, com.clezz.restorehosts, ro.iphonews.adblock, com.rishanan.
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=34.deb
+Size: 1828
+Name: Hosts Cleaner
+Author: Thireus <repo
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=34
+MD5sum: 232cc500560278452a683e42f6e31c6a
+
+Package: com.dpkg.cappd
+Version: 1.0.3
+Section: Administration
+Maintainer: dpkg_
+Depends: mobilesubstrate
+Conflicts: com.unloadvsd, com.killvsd, com.unloadvsd2, com.exvsd, com.byevsd, com.unloadatd, com.unloadapd, com.unloadnano, com.unloaduad, com.unloadtipsd, com.unloadschpa, com.unloadwbd
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=33.deb
+Size: 996
+Description: Safely disable some executables/daemons.
+Name: Cappd
+Author: dpkg_
+Depiction: http://www.myclassic.net/index.php?pid=33
+MD5sum: 426876416e412a6e4a67f20b81ec022b
+
+Package: net.myclassic.dleasycrack
+Version: 2.8.6-2
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, curl
+SileoDepiction: https://myclassic.net/sileo.php?pid=32
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=32.deb
+Size: 3390636
+Installed-Size: 10904
+Description: äÓÎå ßÇãáÉ
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=32
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
+MD5sum: 88c1ce0a082ce9e02ced499e3fec9737
+SHA1: 861d42cb998fdafb45ce1571c1ad24698f4abf2c
+SHA256: a35b58db1fc56c04cae5f480c92e84a450f0c9e9a20db94ed5a3b089a4ac9293
+
+Package: me.pr0crustes.betterw
+Version: 1.1.7
+Section: Tweaks
+Maintainer: pr0crustes
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=31.deb
+Size: 24136
+Installed-Size: 320
+Description: Make Whatsapp better!
+Name: betterW
+Author: pr0crustes
+Depiction: https://pr0crustes.github.io/repo/depictions/?p=me.pr0crustes.betterw
+MD5sum: be61f0e2514348f78731c28d83876941
+
+Package: com.yourepo.amzing.harbor3
+Version: 1.0.0-10
+Section: Tweaks
+Maintainer: Evan Swick <hotmail_155@hotmail.com>
+Depends: mobilesubstrate
+Conflicts: com.eswick.harbor2
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=30.deb
+Size: 32634
+Description: macOS-style dock redesigned for touch screens
+Name: Harbor 3
+Author: Evan Swick <hotmail_155@hotmail.com>
+Depiction: http://www.myclassic.net/index.php?pid=30
+MD5sum: 519b99562ec43b5052776976ec3dd74e
+
+Package: in.net.mario.tweak.fixappadmin
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Mario Cheung
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=29.deb
+Size: 8332
+Installed-Size: 136
+Description: Fix App Admin crash when update on iOS 12.4/13.3
+Name: aFixToAppAdmin
+Author: Mario Cheung
+Depiction: http://www.myclassic.net/index.php?pid=29
+MD5sum: b1c8d29e30963c38577023b0db435300
+
+Package: com.ichitaso.batteryx
+Version: 0.0.4
+Section: Tweaks
+Maintainer: ichitaso <willfeeltips+btx@gmail.com>
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.spark.batterypercentx, com.dpkg.batterypercent12, com.dpkg.batterypercenta12, com.dpkg.arkrome, com.dpkg.arkromepro, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex, com.blakeboxberger.bazzi2, com.neinzedd9.bazzi
+Replaces: com.ichitaso.batteryx
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=28.deb
+Size: 44898
+Installed-Size: 340
+Description: Show Battery Percentege for iPhone X Series
+Name: BatteryPercentageX
+Author: ichitaso <willfeeltips+btx@gmail.com>
+Homepage: https://ichitaso.com/
+Depiction: https://cydia.ichitaso.com/depiction/batteryx.html
+Icon: file:///Library/PreferenceBundles/BatteryPercentageX.bundle/icon@2x.png
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+MD5sum: 37462754ac0cc47270f000b7ed5ba291
+
+Package: com.cokepokes.appstorepluspluss
+Version: 0.9.8-9
+Priority: optional
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=26.deb
+Size: 1346916
+Name: AppStore++
+Author: CokePokes
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=26
+Icon: http://classic.xrepo.co/CydiaIcon.png
+MD5sum: 82e08be992c65abec81ac5f2ce0c9b0c
+
+Package: com.asterix.digitalbattery13
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.creaturesurvive.libcscolorpicker
+Conflicts: com.spark.batterypercentx, com.neinzedd9.percentagebatteryx, com.dpkg.batterypercent12, com.dpkg.arkrome, ca.ndoizo.perxent, com.asterix.modernbatteryx, com.laughingquoll.cowbell, com.peterdev.half, com.asterix.digitalnotchedbattery
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=25.deb
+Size: 37350
+Installed-Size: 508
+Description: Digital battery in statusbar for iOS13
+Name: DigitalBattery13
+Author: Asterix <asterix_gaul@outlook.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalbattery13Dp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalbattery13Dp
+Icon: file:///Library/PreferenceBundles/DigitalBattery13.bundle/icon@2x.png
+Tag: purpose::extension, compatible::ios13
+MD5sum: a79f7e5a37485ece03af03d11e2ca05d
+
+Package: net.myclassic.phonexl
+Version: 1.2.9
+Section: Tweaks
+Maintainer: mik
+Depends: mobilesubstrate
+SileoDepiction: https://myclassic.net/sileo.php?pid=24
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=24.deb
+Size: 19154
+Installed-Size: 420
+Description: An awesome MobileSubstrate tweak!
+Name: phonexl
+Author: mik
+Depiction: http://www.myclassic.net/index.php?pid=24
+MD5sum: cbf4c7890f35853bc840e33654699f92
+SHA1: 6d6c901e275fc34f06f752d89aefed469b62e0ba
+SHA256: 9b93e90a475bf5975a77006d92fe8e3fca2420237248789dd27860683a245ad8
+
+Package: com.golddavid.colorbadges-new
+Version: 1.4.4
+Section: Tweaks
+Maintainer: David Goldman <help@golddavid.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorbadges
+Replaces: org.thebigboss.colorbadges
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=23.deb
+Size: 59612
+Installed-Size: 560
+Description: Colorize your badges
+Name: ColorBadges (Packix)
+Author: David Goldman <help@golddavid.com>
+Depiction: http://apt.golddavid.com/depictions/ColorBadges.html
+Icon: file:///Library/PreferenceBundles/cbprefs.bundle/CBCydiaIcon.png
+MD5sum: 869211e77ad806bc133190bad816e92b
+
+Package: net.myclassic.spy
+Version: 1.0
+Section: Tweaks
+Maintainer: xRepo <support@xRepo.co>
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.opa334.ccsupport
+SileoDepiction: https://myclassic.net/sileo.php?pid=22
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=22.deb
+Size: 243852
+Installed-Size: 1592
+Name: Spy 1.0
+Author: elias
+Sponsor: xRepo.co <http://xRepo.co>
+Depiction: http://www.myclassic.net/index.php?pid=22
+MD5sum: abb064ca21692e9d11813242241ae565
+SHA1: e2b45850a3be81c093248ea05182e6ade44ea828
+SHA256: 7e6e6091016b88b2721aa4b94f2da46112790838e07b49963ab29d9aba21f102
+
+Package: com.cannathea.afc2d-arm64
+Version: 1.1
+Section: System
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=21.deb
+Size: 20418
+Installed-Size: 672
+Description: Allow full file-system access over USB for arm64 devices, especially for those using a KPPLess jailbreak.
+Name: Apple File Conduit "2" (iOS 11+, arm64)
+Author: saurik, Cannathea <csupport@cannathea.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Tag: purpose::daemon, compatible::ios10, compatible::ios11, compatible::ios12
+MD5sum: 5faf9cc4ca15e23015417e120fd6cecc
+
+Package: org.thebigboss.fastloading
+Version: 1.0-3
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 4.0), cydia (>= 1.1.19), preferenceloader
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=20.deb
+Size: 16498
+Installed-Size: 206
+Description: disables UI cache refresh in Cydia
+Name: FastLoading
+Author: PoomSmart <poomst@hotmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastloadingDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastloadingDp
+Icon: file:///Library/PreferenceLoader/Preferences/FastLoading/FL@2x.png
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
+MD5sum: 0a7df3649d13513ec7d8069be957f851
+
+Package: com.spark.snowboard
+Version: 1.2.87~Beta2
+Section: Tweaks
+Maintainer: Spark
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=19.deb
+Size: 1435328
+Installed-Size: 4292
+Description: Snowboard theming engine
+Name: SnowBoard
+Author: Spark & Dennis D. Bednarz
+Depiction: http://www.myclassic.net/index.php?pid=19
+MD5sum: 7e4ebf6c2612ebb85252f8f403ea6476
+
+Package: com.rpgfarm.a-shields
+Version: 1.1.9
+Section: Tweaks
+Maintainer: Baw Appie <pp121324@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=18.deb
+Size: 32964
+Installed-Size: 360
+Description: Protect your device
+Name: A-Shields
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: http://www.myclassic.net/index.php?pid=18
+MD5sum: eeb253eaa243f12d8c9e3308f2c0c7e3
+
+Package: com.creaturecoding.touchflow
+Version: 1.0.6
+Priority: optional
+Section: Tweaks
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Pre-Depends: firmware (>= 11.0), mobilesubstrate | com.ex.libsubstitute
+Depends: com.creaturesurvive.libcscolorpicker
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=touchflow
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=17.deb
+Size: 189644
+Installed-Size: 820
+Description: Show your touches on the screen
+ customizable tool to show your touches on the screen
+ allows for showing touch force on supported devices
+Name: TouchFlow
+Author: CreatureSurvive <support@creaturecoding.com>
+Homepage: https://creaturecoding.com/
+Depiction: https://creaturecoding.com/?page=depiction&id=touchflow
+Tag: purpose::extension, compatible_min::iosiOS11
+MD5sum: db6cd65640f784d10fc65aa7be1e21ff
+
+Package: com.adriandev.invisibleshortcuts
+Version: 1.0.0
+Section: Tweaks
+Maintainer: AdrianDev
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=16.deb
+Size: 2458
+Installed-Size: 136
+Description: Hides the lock screen shortcuts while keeping functionality
+Name: InvisibleShortcuts
+Author: AdrianDev
+Depiction: http://www.myclassic.net/index.php?pid=16
+MD5sum: ea798e5f5aa7f3e5df7a2c3ea3b9165f
+
+Package: co.dynastic.tsssaver
+Version: 1.2.0
+Section: Utilities
+Maintainer: Jamie Bishop <jamie@dynastic.co>
+Depends: com.modmyi.libswift4 (>= 4.0.3), firmware (>= 8.0)
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=15.deb
+Size: 152032
+Installed-Size: 444
+Description: A one-click tool to save blobs using TSSsaver.1conan.com
+Name: TSS Saver
+Author: Jamie Bishop <jamie@dynastic.co>
+Depiction: https://repo.nullpixel.uk/depiction/co.dynastic.tsssaver/
+MD5sum: fe2e43efaa390e4b81f100175ad1cddb
+
+Package: ws.hbang.newterm2
+Version: 2.4
+Section: Terminal Support
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=14.deb
+Size: 2183056
+Installed-Size: 6792
+Description: A powerful terminal app for iOS
+Name: NewTerm (iOS 10  13)
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://repo.chariz.com/package/ws.hbang.newterm2/
+Icon: https://chariz.com/cdn/icon/newterm/icon@3x.png
+Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+MD5sum: 9de0a2d8c6b2cb9ddc5467cb8e51f54c
+
+Package: me.myclassic.rocket
+Version: 3.6.15
+Priority: optional
+Section: Tweaks
+Maintainer: Majd Alfhaily <freemanrepo@me.com>
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+SileoDepiction: https://myclassic.net/sileo.php?pid=11
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=11.deb
+Size: 5900304
+Description: Save posts and view stories anonymously and do much more
+Name: Rocket for Instagram
+Author: Majd Alfhaily
+Depiction: https://api.getrocketapp.io/depiction/web
+Icon: https://api.getrocketapp.io/resources/depiction/images/icon.png
+MD5sum: c72281f1ccbb2713956f060f336671c7
+SHA1: 4ef6e237e72d046f917fe23641a29813496fcf86
+SHA256: b0d7c28329977d321e961bcd7996c4557f1a31f752ed8828d469347e55bf5b24
+
+Package: com.exile90.icleanerpro
+Version: 7.8.1~beta1
+Section: Tweaks
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+SileoDepiction: https://myclassic.net/sileo.php?pid=10
+Architecture: iphoneos-arm
+Filename: http://myclassic.net/downloads.php?request=10.deb
+Size: 7404578
+Description: The first real iOS system cleaner & optimizer
+Name: iCleaner Pro
+Author: Ivano Bilenchi <support@ib-soft.net>
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+MD5sum: d330160a2862adf076d4a281a92745e1
+SHA1: c9953e5b5735d6897c1d13b68c695ba95c653fbd
+SHA256: a464172e9fe6f2614a47654b9f1cfb69428de8ecddcdad38d9ea419679f8a33c"},]
