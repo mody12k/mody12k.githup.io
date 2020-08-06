@@ -1448,7 +1448,8 @@ MD5sum: d330160a2862adf076d4a281a92745e1
 SHA1: c9953e5b5735d6897c1d13b68c695ba95c653fbd
 SHA256: a464172e9fe6f2614a47654b9f1cfb69428de8ecddcdad38d9ea419679f8a33c"},]
 
- Package: com.deadtweak.com
+ Package: 
+com.deadtweak.com_1.7.1_iphoneos-arm.deb
  Priority: optional
  Section: Tweaks
  Architecture: iphoneos-arm
