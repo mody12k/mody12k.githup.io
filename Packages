@@ -1447,3 +1447,18 @@ Icon: file:///Applications/iCleaner.app/Icon.png
 MD5sum: d330160a2862adf076d4a281a92745e1
 SHA1: c9953e5b5735d6897c1d13b68c695ba95c653fbd
 SHA256: a464172e9fe6f2614a47654b9f1cfb69428de8ecddcdad38d9ea419679f8a33c"},]
+
+ Package: com.deadtweak.com
+ Priority: optional
+ Section: Tweaks
+ Architecture: iphoneos-arm
+ Version: 1.7.1
+ Depends: firmware (>= 10.0), mobilesubstrate, sed
+ Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor, com.cokepokes.phantomfake, com.cokepokes.phantom, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, fr.s0me1ne.snapbreak, com.s0me1ne.atweakdisabler
+ Description: No more description.
+ Name: DeadTweak
+ Author: Dead guy
+ dev: Dead guy
+MD5: cf4124360ba11fefddbe1e3b0c834d3b
+SHA1: 785de8ae5946de744d79f015fc31d51e1ff7ce3d
+SHA256: f8a4cd8a61b2b0d9d69aad45c7c6d334e5edeb6ad10fceacfa2bec654ec62f0e
